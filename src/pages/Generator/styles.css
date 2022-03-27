@@ -1,0 +1,27 @@
+.topText {
+  position: absolute;
+  width: 95%;
+  left: 5%;
+  top: 5%;
+  z-index: 100;
+}
+
+.bottomText {
+  position: absolute;
+  width: 95%;
+  left: 5%;
+  bottom: 5%;
+  z-index: 100;
+}
+
+.generator-container {
+    width: 50%;
+    position: relative;
+    background-color: black;
+    margin-left: 25%;
+}
+
+img {
+    height: 500;
+    width: 100%;
+}

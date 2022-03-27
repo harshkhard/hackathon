@@ -1,0 +1,11 @@
+export const GET_TEMPLATES = "GET_TEMPLATES";
+
+export const SET_ACTIVE_TEMPLATE = "SET_ACTIVE_TEMPLATE";
+
+export const SHOW_LOADER = "SHOW_LOADER";
+
+export const HIDE_LOADER = "HIDE_LOADER";
+
+export const SET_FONT_SIZE = "SET_FONT_SIZE";
+
+export const SET_FONT_COLOR = "SET_FONT_COLOR";
